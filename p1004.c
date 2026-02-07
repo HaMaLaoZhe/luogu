@@ -29,6 +29,7 @@ int main()
         scanf("%d%d", &y, &v);
         a[x][y] = v;
     }
-    
+    printf("1");
+
     return 0;
 }
